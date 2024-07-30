@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "repeating-hls-livestream",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Dev1an/Repeating-HLS-livestream",
+      "state" : {
+        "branch" : "main",
+        "revision" : "66962af38d0e623dbec321d4a523b12ecc1090e3"
+      }
+    },
+    {
+      "identity" : "swifter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/httpswift/swifter",
+      "state" : {
+        "revision" : "9483a5d459b45c3ffd059f7b55f9638e268632fd",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
